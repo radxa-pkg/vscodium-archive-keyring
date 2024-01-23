@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo.git
